@@ -7,3 +7,6 @@ streamlit run app.py
 
 Refresh the browser whenever you make code changes
 
+#Streamlit Documentation
+
+https://docs.streamlit.io/
