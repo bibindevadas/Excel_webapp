@@ -69,7 +69,7 @@ image = Image.open('images/survey.jpg')
 
 col1.image(image,
         # caption='Designed by slidesgo / Freepik',
-         use_column_width=True)
+         use_container_width=True)
 
 col2.dataframe(df)
 
